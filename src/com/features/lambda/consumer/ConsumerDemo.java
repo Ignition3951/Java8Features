@@ -1,4 +1,4 @@
-package com.features.lambda;
+package com.features.lambda.consumer;
 
 import java.util.Arrays;
 import java.util.List;

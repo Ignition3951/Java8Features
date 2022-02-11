@@ -7,7 +7,7 @@ import java.util.List;
 import com.features.lambda.entity.Employee;
 import com.features.lambda.entity.EmployeeDAO;
 
-public class SortComparatorDemo {
+public class SortComparatorListDemo {
 
 	public static void main(String[] args) {
 
